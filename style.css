@@ -150,6 +150,11 @@ input {
     font-size: 1em;
 }
 
+input:hover {
+    cursor: pointer;
+    background: linear-gradient(180deg, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
 footer {
     font-size: .8em;
     text-align: center;
